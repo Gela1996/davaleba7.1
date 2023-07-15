@@ -1,0 +1,14 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(150, 138, 138, 0.84);
+    width: 300px; padding: 10px; border: 1px solid gray;
+    }
+.card:hover {
+    box-shadow:  0 8px 16px 0 rgba(150, 138, 138, 0.927);
+}
+p {
+    padding: 1px;
+    text-align: center;
+}
+.container {
+    padding: 2px 16px;
+}
